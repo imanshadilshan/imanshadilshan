@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Imansha%20Dilshan&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20Enthusiast%20%E2%80%A2%20AI%20Explorer&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+scalable%2C+real-world+applications+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+CGPA+3.91+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6EE7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Software+Engineering+Undergraduate+%F0%9F%8E%93;Building+scalable%2C+real-world+applications+%F0%9F%9A%80;University+of+Kelaniya+%E2%80%A2+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ima-69&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views"/>
