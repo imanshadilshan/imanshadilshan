@@ -56,53 +56,20 @@ I enjoy solving complex problems, working in collaborative environments, and con
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux&theme=dark" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,java,php&theme=dark" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
-
-### ☁️ Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
-</p>
-
-### 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,ps,jira&theme=dark" />
-</p>
-
----
-
-
-## 📜 Certifications
-
-![Cloud Fundamentals](https://img.shields.io/badge/Cloud%20Fundamentals-Certified-0891b2?style=flat-square&logo=icloud&logoColor=white)
-![Frontend Development](https://img.shields.io/badge/Frontend%20Development-Certified-f472b6?style=flat-square&logo=html5&logoColor=white)
-![JavaScript Programming](https://img.shields.io/badge/JavaScript%20Programming-Certified-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![Web Development](https://img.shields.io/badge/Web%20Development-Certified-6ee7f7?style=flat-square&logo=googlechrome&logoColor=black)
-![Version Control](https://img.shields.io/badge/Version%20Control-Certified-a78bfa?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 💬 Philosophy
-
 <div align="center">
 
-> *"Stay curious. Build consistently. Keep improving."*
+| 🎨 Frontend | ⚙️ Backend |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,redux&theme=dark) | ![](https://skillicons.dev/icons?i=nodejs,express,spring,java,php&theme=dark) |
+
+| 🗄️ Databases & ☁️ Cloud | 🧰 Tools & DevOps |
+|:---:|:---:|
+| ![](https://skillicons.dev/icons?i=mongodb,mysql,aws,azure&theme=dark) | ![](https://skillicons.dev/icons?i=git,docker,figma,ps,jira&theme=dark) |
 
 </div>
 
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -112,7 +79,7 @@ I enjoy solving complex problems, working in collaborative environments, and con
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://github.com/ima-69">
+<a href="https://github.com/imanshadilshan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
@@ -132,6 +99,6 @@ I enjoy solving complex problems, working in collaborative environments, and con
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-⭐️ *Thanks for visiting — feel free to explore my repos and drop a star if something catches your eye!*
+⭐️ *Thanks for visiting - feel free to explore my repos and drop a star if something catches your eye!*
 
 </div>
