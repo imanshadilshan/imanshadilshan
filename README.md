@@ -83,46 +83,6 @@ I enjoy solving complex problems, working in collaborative environments, and con
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ima-69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7f7&icon_color=a78bfa&text_color=c9d1d9&ring_color=6ee7f7" height="175"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ima-69&theme=tokyonight&hide_border=true&background=0d1117&ring=6ee7f7&fire=f472b6&currStreakLabel=6ee7f7" height="175"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ima-69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7f7&text_color=c9d1d9&langs_count=8" height="175"/>
-</div>
-
----
-
-## 🏆 Leadership & Involvement
-
-<table>
-  <tr>
-    <td>👨‍💼</td>
-    <td><strong>President</strong></td>
-    <td>Software Engineering Students' Association</td>
-  </tr>
-  <tr>
-    <td>🎨</td>
-    <td><strong>Head of Design</strong></td>
-    <td>IEEE WIE Student Branch</td>
-  </tr>
-  <tr>
-    <td>📢</td>
-    <td><strong>PR Lead</strong></td>
-    <td>Leo Club — IT Unit</td>
-  </tr>
-  <tr>
-    <td>🌍</td>
-    <td><strong>PR Coordinator</strong></td>
-    <td>Zero Plastic Movement</td>
-  </tr>
-</table>
-
----
 
 ## 📜 Certifications
 
