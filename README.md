@@ -38,7 +38,7 @@ const imansha = {
 ```
 
 I'm a passionate software engineering undergraduate who loves building **scalable, real-world applications** and exploring modern technologies.  
-I enjoy solving complex problems, working in collaborative environments, and continuously learning — especially in **cloud computing**, **distributed systems**, and **AI**.
+I enjoy solving complex problems, working in collaborative environments, and continuously learning - especially in **cloud computing**, **distributed systems**, and **AI**.
 
 ---
 
