@@ -30,7 +30,7 @@
 const imansha = {
   role      : "Software Engineering Undergraduate",
   university: "University of Kelaniya, Sri Lanka",
-  cgpa      : 3.91,
+  cgpa      : 3.92,
   interests : ["Cloud Computing", "Distributed Systems", "AI & Gen AI"],
   goal      : "Build impactful digital solutions & grow as an innovative leader",
   funFact   : "I debug with coffee ☕ and ship with passion 🚀",
